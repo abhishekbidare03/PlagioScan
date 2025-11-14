@@ -1,0 +1,16 @@
+Document A:
+Neural networks are widely used in modern AI systems. They learn features from large datasets and can generalize to unseen examples.
+
+Document B:
+Modern AI systems often use neural networks which automatically extract useful features when trained on extensive datasets, enabling good generalization to new inputs.
+
+
+A: Globalization has facilitated the exchange of goods, services, and ideas across international borders.
+B: Due to globalization, countries can now share products, information, and cultural practices more easily than before.
+
+C: Cats are intelligent animals.
+D: Cats are smart creatures.
+
+E: Artificial intelligence has become an essential component of modern technology. From personal assistants to advanced medical diagnostics, AI systems continue to evolve rapidly. These innovations allow industries to improve efficiency, reduce errors, and offer more personalized experiences.
+F: AI plays a major role in today’s technological advancements. It powers digital assistants, healthcare tools, and many automated systems. As it keeps improving, organizations benefit through higher accuracy, faster workflows, and tailored solutions for users.
+

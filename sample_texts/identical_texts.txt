@@ -1,0 +1,5 @@
+Document A:
+The quick brown fox jumps over the lazy dog. This sentence is a common pangram used for testing fonts and keyboards.
+
+Document B:
+The quick brown fox jumps over the lazy dog. This sentence is a common pangram used for testing fonts and keyboards.

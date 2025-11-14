@@ -1,0 +1,36 @@
+.cursor/rules/kluster-code-verify.mdc
+.kluster
+
+
+.github/instructions/kluster-code-verify.instructions.md
+// ... existing code ...
+# Python venvs
+aienv/
+.venv/
+venv/
+
+# Python caches and build
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+dist/
+build/
+*.egg-info/
+
+# Env files
+.env
+.env.*
+*.env
+
+# Tools and IDE
+.pytest_cache/
+.ipynb_checkpoints/
+.streamlit/
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+// ... existing code ...

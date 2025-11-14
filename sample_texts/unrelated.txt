@@ -1,0 +1,5 @@
+Document A:
+Photosynthesis is the process by which plants convert sunlight into chemical energy, producing oxygen as a byproduct.
+
+Document B:
+Cloud computing provides on-demand access to computing resources over the internet, enabling scalable applications without owning physical servers.
